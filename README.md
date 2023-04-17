@@ -1,2 +1,2 @@
 # LP-1
-My first landing page
+Landing page about Yoga
