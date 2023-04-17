@@ -1,2 +1,2 @@
 # LP-1
-My
+My first landing page
